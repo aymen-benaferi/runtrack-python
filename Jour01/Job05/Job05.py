@@ -1,0 +1,2 @@
+alphabet ="zyxwvutsrqponmlkjihgfedcba"
+print(alphabet)

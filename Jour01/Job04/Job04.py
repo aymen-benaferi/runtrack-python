@@ -1,0 +1,3 @@
+
+alphabet ="abcdefghijklmnopqrstuvwyz"
+print (alphabet)
